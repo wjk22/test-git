@@ -1,2 +1,2 @@
 # test-git
-# fooling arround with git and multiple servers / repos
+fooling arround with git and multiple servers / repos
